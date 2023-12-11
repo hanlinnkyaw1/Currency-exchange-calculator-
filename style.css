@@ -1,0 +1,20 @@
+#form{
+  border-radius: 5px;
+  width: 80vw;
+  max-width: 500px;
+  box-shadow: 1px 1px 1px gainsboro;
+}
+
+#btn{
+  width: 100%;
+}
+
+#result{
+  background-color: white;
+  border-radius: 5px;
+  height: 40px;
+}
+
+.form-control{
+  box-shadow: 0.7px 0.7px 0.5px gainsboro;
+}
